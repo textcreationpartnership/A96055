@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of VVarvvicks summons to the Kings fleet at Gowry, and Prince Charles his answer. With His Lordships reply. And a declaration by the Hollanders, concerning the Prince and his Lordship. Also the taking of the Lord Jermin his ship, and another ship of the Irish rebels, by the Earle of Warwicke. And a great victory against the Scots.</title>
+            <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96055</idno>
+            <idno type="STC">Wing W1010</idno>
+            <idno type="STC">Thomason E465_15</idno>
+            <idno type="STC">ESTC R205187</idno>
+            <idno type="EEBO-CITATION">99864619</idno>
+            <idno type="PROQUEST">99864619</idno>
+            <idno type="VID">162276</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162276)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E465[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of VVarvvicks summons to the Kings fleet at Gowry, and Prince Charles his answer. With His Lordships reply. And a declaration by the Hollanders, concerning the Prince and his Lordship. Also the taking of the Lord Jermin his ship, and another ship of the Irish rebels, by the Earle of Warwicke. And a great victory against the Scots.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Smithurst, neer Pye-corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a letter dated "Gowry this 24 of Septemb. 1648" and a letter announcing the capture of Belfast and Carrickfergus by Colonel Monk and the arrival of Robert Monro taken prisoner, signed "From aboard the Swan Frigot in Chester River 24 Sep. 1648. Your Honours servant to command, Robert Clarke" -- Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warwicke, Robert Rich, --  Earl of, 1587-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162276:1" rendition="simple:additions"/>
+            <p>THE Earle of VVarwicks <hi>S<g ref="char:V">Ʋ</g>MMONS</hi> To the KINGS Fleet at <hi>Gowry,</hi> and Prince <hi>Charles</hi> his Anſwer.</p>
+            <p>
+               <hi>With His Lordſhips REPLY.</hi>
+            </p>
+            <p>And a Declaration by the Hollanders, concer<g ref="char:EOLhyphen"/>ning the Prince and his Lordſhip.</p>
+            <p>Alſo the taking of the Lord <hi>Jermin</hi> his ſhip, and another ſhip of the Iriſh Rebels, by the Earle of WARWICKE.</p>
+            <p>And a great VICTORY againſt the SCOTS.</p>
+            <figure>
+               <figDesc>depiction of a seventeenth-century warship</figDesc>
+            </figure>
+            <p>
+               <hi>London</hi> Printed for <hi>R. Smithurſt,</hi> neer Pye-corner, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162276:2"/>
+            <pb n="1" facs="tcp:162276:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>stylized depiction of the English royal blazon flanked by the English lion and Scottish unicorn, as well as the Tudor rose and Scottish thistle</figDesc>
+               </figure>
+            </head>
+            <head>THE EARLE of VVARVVICKES SUMMONS TO The KINGS Fleet at <hi>GOWRY:</hi> AND Prince Charles <hi>His Anſwer.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lord Admirall with his fleet conſiſt<g ref="char:EOLhyphen"/>ing of about 20 ſhips, hath now alarum<g ref="char:EOLhyphen"/>ed the revolted ſhips, and is labouring to reduce them, the particulars are thus.</p>
+            <p>His Lordſhip called a Councell of Warre of his Officers, (upon receite of the Ordinance
+<pb n="2" facs="tcp:162276:3"/>for giving Indempnity to the revolted ſhips, the Of<g ref="char:EOLhyphen"/>ficers and Seamen) And it was reſolved to ſend them a ſummons, and therewith to offer them Indempnity accordingly.</p>
+            <p>And we attended his Lordſhip hither for the redu<g ref="char:EOLhyphen"/>cing of them, And comming within 4 leagues of them, a ſummons was ſent to them, they being then in <hi>Gowry</hi> and we alſo within thoſe limits, offering to them that if they would come in, and ſurrender themſelves, they or any of them and their Veſſells, they ſhould have Indempnity and favour, if not to expect none.</p>
+            <p>But Prince <hi>Charles,</hi> Prince of Wales being newly come, they were all commanded to ſhips, and the ſhips to readineſſe, for the Prince had heard before that we were comming hither againſt them.</p>
+            <p>The Prince ſent us anſwer of a poſitive denyall to come in, or doe any thing in order to that ſummons, ſleighting the Indempnity offered. And declared reſo<g ref="char:EOLhyphen"/>lution and thoſe with him, for the reſtoration of the King his father to His Rights.</p>
+            <p>In the meane time the Seamen of the Princes ſhips drew off ſome Ordnance, out of their ſhips to plant them on the ſhoare, to play againſt us, but the <hi>Hollan<g ref="char:EOLhyphen"/>ders</hi> declared a very great dislike of that, not thinking it fit to give any way to them to fortifie upon their land. But this diſpute reached not far, for the Prince of <hi>Orange,</hi> and his Councell had ſo ordered it, that ſome were ſent thither to act more ſubtlely for the de<g ref="char:EOLhyphen"/>fence of Prince <hi>Charles</hi> and the ſhips, and Officers, and Seamen under him, and a Councell ſat for the effect<g ref="char:EOLhyphen"/>ing thereof. In the interim my Lord Admiral ſent a re<g ref="char:EOLhyphen"/>ply to the Prince to let His Highnes know the dange<g ref="char:EOLhyphen"/>rous
+<pb n="3" facs="tcp:162276:3"/>courſes he is in, and thoſe with him, and what an hopefull way the Kingdome of <hi>England,</hi> is now in to be ſettled, and all differences compoſed, and very good invitation to His Highneſſe, and thoſe with him to hearken to an agreement, and comply with the Parliament of <hi>England.</hi>
+            </p>
+            <p>But there is as yet no ſatisfactory anſwer, nothing viſi<g ref="char:EOLhyphen"/>ble but a countenance to ſtand out, and oppoſe, and addreſ<g ref="char:EOLhyphen"/>ſes are made to the Prince of <hi>Orange,</hi> and the Eſtates, that they may be protected by them.</p>
+            <p>Divers <hi>Hollanders</hi> are troubled, and vext to ſee it, fearing that it may not be conducing to their Intereſt in their Li<g ref="char:EOLhyphen"/>berties, to let ſuch things be done. And there were many that did ſtirre in it, and made ſome demurre in the Decla<g ref="char:EOLhyphen"/>ration. But at laſt it was thought fit by the Prince of <hi>O<g ref="char:EOLhyphen"/>range</hi> and his Councell, that the Agreement between the Nations of 1622. ſhould be conſidered of, and in that one branch, that between <hi>England, Scotland,</hi> and <hi>Ireland,</hi> &amp;c. there ſhould be no Acts of Hoſtility, by, and in the others territo<g ref="char:EOLhyphen"/>ries. And it was inſtanced that it was ſo Acted by <hi>England,</hi> when the <hi>Hollanders,</hi> chaſed the <hi>Spaniards</hi> about 10 yeares ſince, and they ſayled to the Coaſts of <hi>England,</hi> and there ſecured, ſo that the <hi>Hollanders</hi> were not admitted to act any hoſtility againſt them.</p>
+            <p>Indeed that was a ſtrange action, and ſo is this: for thoſe <hi>Spaniards</hi> by all probability came to invade <hi>England,</hi> and had a deſign by conjunction with the Engliſh Papiſts, who had Collections, and good ſtore of Treaſure ready for them from all parts of the Kingdome. And had not the <hi>Hollan<g ref="char:EOLhyphen"/>ders</hi> met with them, and prevented it, they had (no doubt) attempted to have made a ſurprizall of <hi>England,</hi> and deſtroy<g ref="char:EOLhyphen"/>ed the Proteſtants. And yet for all that, when the <hi>Hollanders</hi> had falne upon them, and cut off, and ſpoyled ſome, and likely to give them an utter defeat, yet the <hi>Spaniards</hi> were by authority from <hi>England</hi> protected, and the <hi>Hollanders</hi> not ſuffered to doe further execution upon them.</p>
+            <pb n="4" facs="tcp:162276:4"/>
+            <p> And the <hi>Spaniards</hi> lay ſeverall dayes recrut<g ref="char:EOLhyphen"/>ing their proviſions in the Downes, many of them walking up and down the Country in Kent and other places to ſpye out the Country.</p>
+            <p>And this for ought <hi>I</hi> know is as madde a buſineſſe of the Hollanders to doe any thing by way of protection to the revolted ſhips, whoſe principles are ſo poſitive a<g ref="char:EOLhyphen"/>gainſt their intereſt.</p>
+            <p>Yet it is carried by the major party (who at preſent prevail) that no act of hoſtility (according to the Articles aforeſaid) bee done here on either part. And ſo wee (at pre<g ref="char:EOLhyphen"/>ſent) prevented from doing what wee would by the Hollanders meanes.</p>
+            <p>They Declare themſelves Newters, and that they will not meddle at all, neither on the one ſide nor on the other, between the King and the Parliament of <hi>England.</hi>
+            </p>
+            <p>And they have a fleet of ſhips put in (now) between our ſhips and the Princes, that ſo no hoſtile act may be done on either ſide.</p>
+            <p>But the Officers and Sea-men have diffe<g ref="char:EOLhyphen"/>rences amongſt them, with the Prince, and
+<pb n="5" facs="tcp:162276:4"/>that very great; only at preſent upon a little moneys paid to them, they are not ſo unruly altogether, ſince the Prince came, as they were before, and yet I doe not heare that Prince <hi>Charles</hi> is aboard them.</p>
+            <p>It is thought his Highneſſe will not goe aboard any of the ſhips, for feare that they ſhould have ſome deſigne to carry him away.</p>
+            <p>Wee have juſt now intelligence that the Warwick Frigot hath had a fight with one of the Iriſh ſhips, and taken her, with ten piece of Ordnance, five barrels of Gun-powder, and good ſtore of Merchandize, divers hun<g ref="char:EOLhyphen"/>dreds of Hides, and many thouſand weight of Tallow. And there is alſo a little veſſell ta<g ref="char:EOLhyphen"/>ken that was (by the Lord <hi>Jermins</hi> order) go<g ref="char:EOLhyphen"/>ing with reliefe to his Iſlands, and all the Ammunition therein taken.</p>
+            <closer>
+               <dateline>Gowry <date>this 24 of Septemb. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>MAy it pleaſe you, at preſent being arri<g ref="char:EOLhyphen"/>ved into <hi>Cheſter</hi> water, having been to the Northward, and came on yeſterday out
+<pb n="6" facs="tcp:162276:5"/>of the Bay of <hi>Carrickfergus,</hi> where upon Satur<g ref="char:EOLhyphen"/>day was ſevennight Col. <hi>Monke</hi> did ſurprize the Town and Caſtle of <hi>Carrickfergus,</hi> and the ſame day did ſurprize <hi>Belfaſt:</hi> I have brought over with mee the Generall Major <hi>Monro</hi> Priſoner unto your Honours: Upon Thurſday laſt when I received him aboard, Colonell <hi>Monke</hi> did march away toward <hi>Col<g ref="char:EOLhyphen"/>rane, I</hi> pray God give him good ſucceſſe, he is in great want of men and money; here is one Captain <hi>Browf</hi> come over in charge with the Generall Major, to whom I referre you to further relation at his comming to you. Thus with my humble ſervice preſented un<g ref="char:EOLhyphen"/>to you, I take leave and remaine.</p>
+            <closer>
+               <dateline>From aboard the <hi>Swan</hi> Frigot in <hi>Cheſter</hi>River <date>24 Sep. 1648.</date>
+               </dateline>
+               <signed>Your Honours Servant to command, <hi>ROBERT CLARKE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
